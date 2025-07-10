@@ -1,0 +1,9 @@
+body{color:red;}
+p{
+    color: olive;color: orange; color: yellow;
+    color: purple;color: fuchsia; color: lime;
+    color: white;color: green; color: navy;
+    color: blue;color: aqua; color: teal;
+    color: black;color: silver; color: gray;
+    font-family:TimesNewRoman;
+}

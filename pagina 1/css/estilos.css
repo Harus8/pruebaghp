@@ -1,0 +1,26 @@
+#titulo-principal{
+    color: rgb(195, 90, 202);}
+
+.secundario {color: aqua; }
+.border-box {
+    border: solid 1px cadetblue;
+    margin: 50px;
+    padding: 20px;
+    width:80%;
+}
+p{font-size:1.5em;color:#ab1b1b;}
+
+table{width:50%;margin:auto;}
+table, th, td{
+    border-bottom:1px solid green;
+    border-collapse: collapse;
+}
+thead{
+    background-color: blueviolet;
+    color: white;
+    font-weight: 800;
+}
+td{ text-align: right;}
+th{padding: 0.5em;}
+td{text-align: right;
+padding: 0.2em;}
